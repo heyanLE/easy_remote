@@ -1,0 +1,8 @@
+[package]
+name = "easyremote"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+xrtsp = "0.2.3"
+windows-capture = "1.2.0"
